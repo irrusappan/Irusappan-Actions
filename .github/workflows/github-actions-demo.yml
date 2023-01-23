@@ -1,4 +1,4 @@
-name: My Testworkflow
+name: GitHub Actions Demo
 
 on: [push, workflow_dispatch]
 
